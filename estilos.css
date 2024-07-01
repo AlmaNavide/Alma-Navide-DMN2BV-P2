@@ -1,0 +1,109 @@
+nav{
+    background-color:  rgb(50, 1, 47);
+}
+
+#nav a{
+    color: rgb(226, 223, 208);
+    font-size: 20px;
+}
+
+#logo{
+    background-image: url(./imagenes/LOGO\ PNG.png);
+    width: 334px;
+    height: 110px;
+    font-size: 0;
+    position: absolute;
+    left: 15px;
+    top:15px;
+    z-index: 1;
+}
+
+#banner{
+    color: rgb(226, 223, 208);
+    font-size: 2em;
+    background: linear-gradient(-60deg, rgba(2,0,36,0) 0%, rgba(50,1,47,0.8) 98%) , url("./imagenes/salon\ foto.jpg")no-repeat;
+    background-size: cover;
+    left: 50px;
+    top: 50px;    
+}
+
+#banner h2{
+    color: rgb(226, 223, 208);
+    font-size: 2em;
+}
+
+#banner a{
+    color: rgb(226, 223, 208);
+    border-bottom:  rgb(249, 115, 0);
+}
+
+.btn-outline-info{
+    border: 2px solid  rgb(249, 115, 0);
+}
+
+.btn-outline-info:hover{
+background-color: rgb(249, 115, 0);
+border: 2px solid  rgb(249, 115, 0);
+}
+
+#servicios img{
+    width: 80%;
+    max-width: 100%;
+    margin: auto;
+}
+
+.card{
+    background-color: rgb(50, 1, 47);
+    color:rgb(249, 115, 0);
+}
+
+.card-text{
+    color: rgb(226, 223, 208);
+}
+
+#video{
+    background-color: rgb(249, 115, 0);
+    color: rgb(226, 223, 208) ;
+}
+
+section ul{
+    color:rgb(50, 1, 47) ;
+}
+
+#formulario{
+    background-color:rgb(249, 115, 0);
+    color: rgb(226, 223, 208) ;
+
+}
+
+.btn{
+    background-color:rgb(50, 1, 47);
+    color: rgb(226, 223, 208) ;
+}
+
+.form-control:focus{
+    border-bottom: rgb(249, 115, 0) ;
+    box-shadow: none;
+}
+
+aside{
+    background-color:rgb(249, 115, 0) ;
+}
+
+footer{
+    background-color:rgb(50, 1, 47) ;
+    color: rgb(226, 223, 208) ;
+}
+
+.h3{
+    color: rgb(249, 115, 0);
+}
+
+.h5{
+    color: rgb(226, 223, 208) ;
+}
+
+#redes{
+    color: rgb(226, 223, 208) ;
+
+}
